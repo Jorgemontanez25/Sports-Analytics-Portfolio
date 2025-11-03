@@ -106,10 +106,10 @@ Compares player salaries vs. performance across **NBA, NFL, and MLB**.
 ---
 
 ## 👤 Author
-**Name:** [Your Name]  
-**LinkedIn:** [Your LinkedIn URL]  
+**Name:** Jorge Argel Montañez Aguilar  
+**LinkedIn:** (https://www.linkedin.com/in/jorgemontanezaguilar/)  
 **Portfolio:** [GitHub Portfolio URL]  
-**Contact:** [Email Address]  
+**Contact:** jorgemontanez93@gmail.com  
 
 ---
 
