@@ -113,6 +113,5 @@ Compares player salaries vs. performance across **NBA, NFL, and MLB**.
 
 ---
 
-### ⭐ Repository Description (for GitHub “About” field)
-> Multi-sport analytics portfolio using data science and machine learning to deliver insights across NBA, NFL, MLB, Soccer, and fan engagement.
+
 
